@@ -559,7 +559,7 @@ PVOID pConCommandBase_vtable;
 //
 
 void Command_swarp_info(const char* const* argv, int argc) {
-	ConsolePrintf("Save Warp Tool by hlstuff (https://github.com/hlstuff/SWT/)\n"
+	ConsolePrintf("Save Warp Tool by shar (https://github.com/sharkov63/SaveWarpTool/)\n"
 				  "  SWT BuildTime: %s\n"
 				  "  Engine: %s\n"
 				  "  EngineClient Interface Version: %03i\n"
